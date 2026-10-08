@@ -1,0 +1,5 @@
+ultralytics
+opencv-python-headless
+matplotlib
+pyyaml
+streamlit==1.38.0
